@@ -1,1 +1,1 @@
-# Kruiiz.github.io
+# kruiiz.github.io
