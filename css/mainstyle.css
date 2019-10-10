@@ -40,27 +40,3 @@ margin-top: 60px;
 padding: 40px;
 background-color: #f7f7f7;
 }
-
-.video-item {
-
-}
-/* mouse over link */
-  video-item:hover {
-      color: hotpink;
-    }
-
-.rnb-item {
-
-}
-/* mouse over link */
-  rnb-item:hover {
-      color: lightgreen;
-    }
-
-.dojamoos-item {
-
-}
-/* mouse over link */
-  dojamoos-item:hover {
-      color: lightblue;
-    }
