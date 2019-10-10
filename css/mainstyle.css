@@ -13,7 +13,14 @@ body {
 
 h1 {
   padding: 20px 0px 10px 0px;
+  color: #69CBBB
 }
+
+/* mouse over link */
+  h1:hover {
+      color: hotpink;
+    }
+
 a {
 color: #69CBBB;
 text-decoration: none;
