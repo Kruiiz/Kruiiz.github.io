@@ -2,3 +2,7 @@ header img {
     height: 30px;
 }
 
+body {
+    height: 125vh;
+    font-family: sans-serif;
+}
