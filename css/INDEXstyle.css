@@ -41,6 +41,8 @@ nav li {
     display: inline-block;
     margin-left: 70px;
     padding-top: 25 px;
+  
+  position: relative; 
   }
   
 nav a {
@@ -52,7 +54,24 @@ nav a {
 nav a: hover {
   color: hotpink;
 }
-  
+
+nav a::before {
+  content: '';
+  display: block;
+  height: 5px;
+  background-color: #444;
+
+  position: absolute;
+  top: 0;
+  width: 0%;
+
+  transition: all ease-in-out 250ms;
+}
+
+nav a:hover::before {
+  width: 100%;
+}
+
     
     
     
