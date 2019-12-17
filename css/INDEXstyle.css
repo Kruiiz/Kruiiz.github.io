@@ -1,21 +1,9 @@
-header img {
-    height: 80px;
-}
-
-body {
-    height: 125vh;
-    font-family: sans-serif;
-}
-
-main {
-    color: white;
+.container {
+  width: 80%;
+  margin: 0 auto;
 }
 
 header {
-    background-color: lightpurple;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 80px;
+    background-color: white;
+    
 }
