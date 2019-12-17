@@ -58,3 +58,7 @@ padding: 40px;
 background-color: #f7f7f7;
 }
 
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
