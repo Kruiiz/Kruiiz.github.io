@@ -1,6 +1,9 @@
 body {
   margin: 0;
   font-weight: 300;
+  background-image: url("f1e0d382-36f7-4bcb-b6cb-77e8f78bd157.gif");
+  background-repeat:  no-repeat;
+  background-size: cover;
 }
   
 .container {
