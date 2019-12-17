@@ -39,7 +39,11 @@ text-decoration: none;
     }
 
 header img {
-    height: 80px;
+  height: 80px;
+}
+
+header {
+  background: white;
 }
 
 img {
